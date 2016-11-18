@@ -1,0 +1,136 @@
+2016-11-18 10:04:25.6308|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-18 10:09:23.5081|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-18 10:09:29.6277|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?id=2
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2}]}
+
+2016-11-18 10:09:34.4724|INFO|WebApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost:50875/v1/Products/Product/Update/productid/2
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2,"productEntity":{"ProductID":2,"Name":"aaa","ProductNumber":"1","Color":null,"StandardCost":1.0,"ListPrice":1.0,"Size":null,"Weight":null,"ProductCategoryID":1,"ProductModelID":null,"SellStartDate":"\/Date(1480136400000)\/","SellEndDate":"\/Date(1454130000000)\/","DiscontinuedDate":"\/Date(1454043600000)\/","ThumbNailPhoto":null,"ThumbnailPhotoFileName":null,"rowguid":"ecd1ccd9-d69b-4cce-8de6-46d90ed90191","ModifiedDate":"\/Date(1485752400000)\/"}}]}
+
+2016-11-18 10:09:34.5595|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-18 10:10:19.4678|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/v1/Products/Product/Create
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"productEntity":{"ProductID":0,"Name":"bbb","ProductNumber":"1","Color":null,"StandardCost":1.0,"ListPrice":1.0,"Size":null,"Weight":null,"ProductCategoryID":1,"ProductModelID":null,"SellStartDate":"\/Date(1479358800000)\/","SellEndDate":null,"DiscontinuedDate":null,"ThumbNailPhoto":null,"ThumbnailPhotoFileName":null,"rowguid":"e2beedc9-fec4-4d41-9bc1-9410fbc25a95","ModifiedDate":"\/Date(1480395600000)\/"}}]}
+
+2016-11-18 10:10:19.5108|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-18 10:39:25.4251|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-18 10:39:32.7574|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?id=3
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":3}]}
+
+2016-11-18 10:39:36.4929|INFO|WebApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost:50875/v1/Products/Product/Update/productid/3
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":3,"productEntity":{"ProductID":3,"Name":"bbbc","ProductNumber":"1","Color":null,"StandardCost":1.0,"ListPrice":1.0,"Size":null,"Weight":null,"ProductCategoryID":1,"ProductModelID":null,"SellStartDate":"\/Date(1479358800000)\/","SellEndDate":null,"DiscontinuedDate":null,"ThumbNailPhoto":null,"ThumbnailPhotoFileName":null,"rowguid":"e2beedc9-fec4-4d41-9bc1-9410fbc25a95","ModifiedDate":"\/Date(1480395600000)\/"}}]}
+
+2016-11-18 10:39:36.5420|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-18 10:51:16.8346|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-18 10:51:30.5124|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?id=2
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2}]}
+
+2016-11-18 10:51:35.7048|INFO|WebApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost:50875/v1/Products/Product/Update/productid/2
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2,"productEntity":{"ProductID":2,"Name":"chr","ProductNumber":"1","Color":null,"StandardCost":1.0,"ListPrice":1.0,"Size":null,"Weight":null,"ProductCategoryID":1,"ProductModelID":null,"SellStartDate":"\/Date(1480136400000)\/","SellEndDate":"\/Date(1454130000000)\/","DiscontinuedDate":"\/Date(1454043600000)\/","ThumbNailPhoto":null,"ThumbnailPhotoFileName":null,"rowguid":"ecd1ccd9-d69b-4cce-8de6-46d90ed90191","ModifiedDate":"\/Date(1485752400000)\/"}}]}
+
+2016-11-18 10:51:35.9390|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-11-18 10:51:38.3734|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts?id=1
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2016-11-18 10:54:40.6838|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: 4a6ec0ad-b643-44c4-9cc8-18cb88795880
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+

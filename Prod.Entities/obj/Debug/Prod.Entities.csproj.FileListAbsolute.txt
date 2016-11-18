@@ -1,0 +1,15 @@
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\BusinessEntities\bin\Debug\Prod.Entities.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\BusinessEntities\bin\Debug\Prod.Entities.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\BusinessEntities\obj\Debug\Prod.Entities.csprojResolveAssemblyReference.cache
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\BusinessEntities\obj\Debug\Prod.Entities.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\BusinessEntities\obj\Debug\Prod.Entities.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApi\BusinessEntities\bin\Debug\Prod.Entities.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\BusinessEntities\bin\Debug\Prod.Entities.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApi\BusinessEntities\obj\Debug\Prod.Entities.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\BusinessEntities\obj\Debug\Prod.Entities.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApi\BusinessEntities\obj\Debug\Prod.Entities.csprojResolveAssemblyReference.cache
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\Prod.Entities\bin\Debug\Prod.Entities.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\Prod.Entities\bin\Debug\Prod.Entities.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\Prod.Entities\obj\Debug\Prod.Entities.csprojResolveAssemblyReference.cache
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\Prod.Entities\obj\Debug\Prod.Entities.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\Prod.Entities\obj\Debug\Prod.Entities.pdb

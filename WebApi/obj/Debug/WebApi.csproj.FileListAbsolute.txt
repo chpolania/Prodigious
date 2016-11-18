@@ -1,0 +1,963 @@
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\WebApi.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\WebApi.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\Antlr3.Runtime.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\EntityFramework.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\Newtonsoft.Json.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\System.Net.Http.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\System.Net.Http.WebRequest.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\System.Web.Helpers.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\System.Web.Mvc.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\System.Web.Optimization.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\System.Web.Providers.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\System.Web.Razor.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\WebGrease.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\EntityFramework.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\Newtonsoft.Json.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\System.Net.Http.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\System.Net.Http.WebRequest.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\System.Web.Helpers.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\System.Web.Mvc.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\System.Web.Razor.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\obj\Debug\WebApi.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\obj\Debug\WebApi.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\BusinessServices.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\DataModel.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\AutoMapper.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\DataModel.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\AutoMapper.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\AutoMapper.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\System.Web.Http.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\System.Web.Http.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\WebApi.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\WebApi.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\Antlr3.Runtime.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\EntityFramework.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.Unity.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\Newtonsoft.Json.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\System.Net.Http.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\System.Net.Http.WebRequest.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\System.Web.Helpers.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\System.Web.Http.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\System.Web.Mvc.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\System.Web.Optimization.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\System.Web.Providers.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\System.Web.Razor.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\Unity.Mvc3.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\Unity.WebApi.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\WebGrease.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\DataModel.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\AutoMapper.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\BusinessServices.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.Unity.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\Newtonsoft.Json.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\System.Web.Helpers.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\System.Web.Http.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\System.Web.Mvc.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\System.Web.Razor.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\EntityFramework.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\System.Net.Http.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\System.Net.Http.WebRequest.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\DataModel.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\AutoMapper.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\bin\AutoMapper.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\obj\Debug\WebApi.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\WebApi\obj\Debug\WebApi.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\WebApi.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\WebApi.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\Antlr3.Runtime.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\EntityFramework.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.Unity.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\Newtonsoft.Json.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\Resolver.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\System.Net.Http.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\System.Net.Http.WebRequest.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\System.Web.Helpers.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\System.Web.Http.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\System.Web.Mvc.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\System.Web.Optimization.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\System.Web.Providers.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\System.Web.Razor.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\Unity.Mvc3.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\Unity.WebApi.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\WebGrease.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\DataModel.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\AutoMapper.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\BusinessServices.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\Resolver.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.Unity.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\Newtonsoft.Json.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\System.Web.Helpers.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\System.Web.Http.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\System.Web.Mvc.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\System.Web.Razor.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\EntityFramework.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\System.Net.Http.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\System.Net.Http.WebRequest.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\DataModel.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\AutoMapper.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\bin\AutoMapper.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\obj\Debug\WebApi.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\WebApi\obj\Debug\WebApi.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\WebApi.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\WebApi.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\Antlr3.Runtime.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\EntityFramework.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.Unity.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\Newtonsoft.Json.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\Resolver.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\System.Net.Http.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\System.Net.Http.WebRequest.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\System.Web.Helpers.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\System.Web.Http.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\System.Web.Mvc.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\System.Web.Optimization.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\System.Web.Providers.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\System.Web.Razor.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\Unity.Mvc3.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\Unity.WebApi.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\WebGrease.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\DataModel.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\AutoMapper.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\BusinessServices.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\Resolver.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.Unity.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\Newtonsoft.Json.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\System.Web.Helpers.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\System.Web.Http.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\System.Web.Mvc.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\System.Web.Razor.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\EntityFramework.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\System.Net.Http.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\System.Net.Http.WebRequest.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\DataModel.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\AutoMapper.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\AutoMapper.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\obj\Debug\WebApi.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\obj\Debug\WebApi.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\AttributeRouting.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\AttributeRouting.Web.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\AttributeRouting.Web.Http.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\AttributeRouting.Web.Http.WebHost.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\WebActivator.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\AttributeRouting.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\AttributeRouting.Web.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\AttributeRouting.Web.Http.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\AttributeRouting.Web.Http.WebHost.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\WebApi\bin\WebActivator.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\WebApi.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\WebApi.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\Antlr3.Runtime.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\AttributeRouting.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\AttributeRouting.Web.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\AttributeRouting.Web.Http.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\AttributeRouting.Web.Http.WebHost.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\EntityFramework.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.Unity.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\Newtonsoft.Json.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\Resolver.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\System.Net.Http.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\System.Net.Http.WebRequest.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\System.Web.Helpers.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\System.Web.Http.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\System.Web.Mvc.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\System.Web.Optimization.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\System.Web.Providers.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\System.Web.Razor.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\Unity.Mvc3.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\Unity.WebApi.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\WebActivator.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\WebGrease.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\DataModel.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\AutoMapper.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\BusinessServices.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\Resolver.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\AttributeRouting.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\AttributeRouting.Web.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\AttributeRouting.Web.Http.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\AttributeRouting.Web.Http.WebHost.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.Unity.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\Newtonsoft.Json.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\System.Web.Helpers.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\System.Web.Http.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\System.Web.Mvc.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\System.Web.Razor.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\EntityFramework.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\System.Net.Http.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\System.Net.Http.WebRequest.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\WebActivator.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\DataModel.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\AutoMapper.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\bin\AutoMapper.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\obj\Debug\WebApi.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\WebApi\obj\Debug\WebApi.pdb
+E:\Atricles\WebApi\WebApi\bin\WebApi.dll
+E:\Atricles\WebApi\WebApi\bin\WebApi.pdb
+E:\Atricles\WebApi\WebApi\bin\Antlr3.Runtime.dll
+E:\Atricles\WebApi\WebApi\bin\AttributeRouting.dll
+E:\Atricles\WebApi\WebApi\bin\AttributeRouting.Web.dll
+E:\Atricles\WebApi\WebApi\bin\AttributeRouting.Web.Http.dll
+E:\Atricles\WebApi\WebApi\bin\AttributeRouting.Web.Http.WebHost.dll
+E:\Atricles\WebApi\WebApi\bin\BusinessEntities.dll
+E:\Atricles\WebApi\WebApi\bin\BusinessServices.dll
+E:\Atricles\WebApi\WebApi\bin\EntityFramework.dll
+E:\Atricles\WebApi\WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+E:\Atricles\WebApi\WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\Atricles\WebApi\WebApi\bin\Microsoft.Practices.Unity.dll
+E:\Atricles\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+E:\Atricles\WebApi\WebApi\bin\Newtonsoft.Json.dll
+E:\Atricles\WebApi\WebApi\bin\Resolver.dll
+E:\Atricles\WebApi\WebApi\bin\System.Net.Http.dll
+E:\Atricles\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+E:\Atricles\WebApi\WebApi\bin\System.Net.Http.WebRequest.dll
+E:\Atricles\WebApi\WebApi\bin\System.Web.Helpers.dll
+E:\Atricles\WebApi\WebApi\bin\System.Web.Http.dll
+E:\Atricles\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+E:\Atricles\WebApi\WebApi\bin\System.Web.Mvc.dll
+E:\Atricles\WebApi\WebApi\bin\System.Web.Optimization.dll
+E:\Atricles\WebApi\WebApi\bin\System.Web.Providers.dll
+E:\Atricles\WebApi\WebApi\bin\System.Web.Razor.dll
+E:\Atricles\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+E:\Atricles\WebApi\WebApi\bin\System.Web.WebPages.dll
+E:\Atricles\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+E:\Atricles\WebApi\WebApi\bin\Unity.Mvc3.dll
+E:\Atricles\WebApi\WebApi\bin\Unity.WebApi.dll
+E:\Atricles\WebApi\WebApi\bin\WebActivator.dll
+E:\Atricles\WebApi\WebApi\bin\WebGrease.dll
+E:\Atricles\WebApi\WebApi\bin\DataModel.dll
+E:\Atricles\WebApi\WebApi\bin\AutoMapper.dll
+E:\Atricles\WebApi\WebApi\bin\BusinessEntities.pdb
+E:\Atricles\WebApi\WebApi\bin\BusinessServices.pdb
+E:\Atricles\WebApi\WebApi\bin\Resolver.pdb
+E:\Atricles\WebApi\WebApi\bin\AttributeRouting.xml
+E:\Atricles\WebApi\WebApi\bin\AttributeRouting.Web.xml
+E:\Atricles\WebApi\WebApi\bin\AttributeRouting.Web.Http.xml
+E:\Atricles\WebApi\WebApi\bin\AttributeRouting.Web.Http.WebHost.xml
+E:\Atricles\WebApi\WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\Atricles\WebApi\WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+E:\Atricles\WebApi\WebApi\bin\Microsoft.Practices.Unity.xml
+E:\Atricles\WebApi\WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\Atricles\WebApi\WebApi\bin\Newtonsoft.Json.xml
+E:\Atricles\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+E:\Atricles\WebApi\WebApi\bin\System.Web.Helpers.xml
+E:\Atricles\WebApi\WebApi\bin\System.Web.Http.xml
+E:\Atricles\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+E:\Atricles\WebApi\WebApi\bin\System.Web.Mvc.xml
+E:\Atricles\WebApi\WebApi\bin\System.Web.Razor.xml
+E:\Atricles\WebApi\WebApi\bin\System.Web.WebPages.xml
+E:\Atricles\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+E:\Atricles\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+E:\Atricles\WebApi\WebApi\bin\EntityFramework.xml
+E:\Atricles\WebApi\WebApi\bin\System.Net.Http.xml
+E:\Atricles\WebApi\WebApi\bin\System.Net.Http.WebRequest.xml
+E:\Atricles\WebApi\WebApi\bin\WebActivator.pdb
+E:\Atricles\WebApi\WebApi\bin\DataModel.pdb
+E:\Atricles\WebApi\WebApi\bin\AutoMapper.pdb
+E:\Atricles\WebApi\WebApi\bin\AutoMapper.xml
+E:\Atricles\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+E:\Atricles\WebApi\WebApi\obj\Debug\WebApi.dll
+E:\Atricles\WebApi\WebApi\obj\Debug\WebApi.pdb
+E:\Atricles\WebApi\WebApi\bin\NLog.dll
+E:\Atricles\WebApi\WebApi\bin\NLog.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\WebApi.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\WebApi.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\Antlr3.Runtime.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\AttributeRouting.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\AttributeRouting.Web.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\AttributeRouting.Web.Http.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\AttributeRouting.Web.Http.WebHost.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\EntityFramework.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\Microsoft.Practices.Unity.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\Newtonsoft.Json.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\NLog.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\Resolver.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\System.Net.Http.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\System.Net.Http.WebRequest.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\System.Web.Helpers.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\System.Web.Http.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\System.Web.Mvc.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\System.Web.Optimization.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\System.Web.Providers.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\System.Web.Razor.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\System.Web.WebPages.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\Unity.Mvc3.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\Unity.WebApi.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\WebActivator.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\WebGrease.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\DataModel.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\AutoMapper.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\BusinessServices.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\Resolver.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\AttributeRouting.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\AttributeRouting.Web.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\AttributeRouting.Web.Http.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\AttributeRouting.Web.Http.WebHost.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\Microsoft.Practices.Unity.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\Newtonsoft.Json.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\NLog.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\System.Web.Helpers.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\System.Web.Http.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\System.Web.Mvc.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\System.Web.Razor.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\System.Web.WebPages.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\EntityFramework.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\System.Net.Http.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\System.Net.Http.WebRequest.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\WebActivator.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\DataModel.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\AutoMapper.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\AutoMapper.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\obj\Debug\WebApi.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\obj\Debug\WebApi.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\WebApi.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\WebApi.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\EntityFramework.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\Newtonsoft.Json.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\NLog.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\Resolver.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.Net.Http.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.Net.Http.WebRequest.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.Web.Helpers.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.Web.Http.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.Web.Mvc.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.Web.Razor.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\DataModel.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\AutoMapper.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\BusinessServices.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\Resolver.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\Newtonsoft.Json.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\NLog.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\NLog.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.Web.Helpers.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.Web.Http.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.Web.Mvc.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.Web.Razor.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\EntityFramework.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.Net.Http.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.Net.Http.WebRequest.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\DataModel.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\AutoMapper.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\AutoMapper.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\obj\Debug\WebApi.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\obj\Debug\WebApi.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\WebApi.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\WebApi.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\DataModel.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\EntityFramework.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\Microsoft.Data.Edm.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\Microsoft.Data.OData.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\Newtonsoft.Json.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\NLog.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\Resolver.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Net.Http.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Net.Http.WebRequest.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Spatial.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Web.Helpers.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Web.Http.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Web.Http.OData.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Web.Mvc.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Web.Razor.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\AutoMapper.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\BusinessServices.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\DataModel.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\Resolver.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\Microsoft.Data.Edm.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\Microsoft.Data.OData.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\Newtonsoft.Json.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\NLog.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\NLog.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Spatial.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Web.Helpers.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Web.Http.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Web.Http.OData.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Web.Mvc.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Web.Razor.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\EntityFramework.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Net.Http.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\System.Net.Http.WebRequest.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\AutoMapper.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\de\Microsoft.Data.Edm.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\es\Microsoft.Data.Edm.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\it\Microsoft.Data.Edm.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\de\Microsoft.Data.OData.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\es\Microsoft.Data.OData.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\fr\Microsoft.Data.OData.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\it\Microsoft.Data.OData.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\ja\Microsoft.Data.OData.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\ko\Microsoft.Data.OData.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\ru\Microsoft.Data.OData.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\de\System.Spatial.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\es\System.Spatial.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\fr\System.Spatial.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\it\System.Spatial.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\ja\System.Spatial.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\ko\System.Spatial.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\ru\System.Spatial.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\zh-Hans\System.Spatial.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\bin\zh-Hant\System.Spatial.resources.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\obj\Debug\WebApi.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\WebApi\obj\Debug\WebApi.pdb
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\WebApi.dll.config
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\WebApi.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\WebApi.pdb
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\AttributeRouting.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\AttributeRouting.Web.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\AttributeRouting.Web.Http.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\AttributeRouting.Web.Http.WebHost.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\BusinessEntities.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\BusinessServices.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\DataModel.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\EntityFramework.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\Microsoft.Data.Edm.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\Microsoft.Data.OData.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\Microsoft.Practices.Unity.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\Resolver.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Net.Http.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Net.Http.WebRequest.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Spatial.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Web.Helpers.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Web.Http.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Web.Http.OData.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Web.Mvc.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Web.Optimization.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Web.Providers.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Web.Razor.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Web.WebPages.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\Unity.Mvc3.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\Unity.WebApi.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\WebActivator.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\WebGrease.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\AutoMapper.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\BusinessEntities.pdb
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\BusinessServices.pdb
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\DataModel.pdb
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\Resolver.pdb
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\AttributeRouting.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\AttributeRouting.Web.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\AttributeRouting.Web.Http.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\AttributeRouting.Web.Http.WebHost.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\Microsoft.Data.Edm.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\Microsoft.Data.OData.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\Microsoft.Practices.Unity.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\NLog.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Spatial.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Web.Helpers.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Web.Http.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Web.Http.OData.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Web.Mvc.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Web.Razor.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Web.WebPages.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\EntityFramework.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Net.Http.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\System.Net.Http.WebRequest.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\WebActivator.pdb
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\AutoMapper.pdb
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\AutoMapper.xml
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\de\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\es\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\fr\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\it\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\ja\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\ko\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\ru\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+C:\Users\christianp\Desktop\WebApi\WebApi\obj\Debug\WebApi.dll
+C:\Users\christianp\Desktop\WebApi\WebApi\obj\Debug\WebApi.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\WebApi.dll.config
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\WebApi.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\WebApi.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\AttributeRouting.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\AttributeRouting.Web.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\AttributeRouting.Web.Http.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\AttributeRouting.Web.Http.WebHost.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\EntityFramework.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Microsoft.Data.Edm.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Microsoft.Data.OData.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Microsoft.Practices.Unity.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Net.Http.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Net.Http.WebRequest.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Spatial.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Web.Helpers.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Web.Http.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Web.Http.OData.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Web.Mvc.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Web.Optimization.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Web.Providers.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Web.Razor.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Web.WebPages.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Unity.Mvc3.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Unity.WebApi.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\WebActivator.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\WebGrease.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\AutoMapper.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\AttributeRouting.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\AttributeRouting.Web.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\AttributeRouting.Web.Http.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\AttributeRouting.Web.Http.WebHost.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Microsoft.Data.Edm.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Microsoft.Data.OData.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Microsoft.Practices.Unity.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Spatial.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Web.Helpers.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Web.Http.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Web.Http.OData.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Web.Mvc.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Web.Razor.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Web.WebPages.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\EntityFramework.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Net.Http.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\System.Net.Http.WebRequest.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\WebActivator.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\AutoMapper.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\AutoMapper.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\de\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\es\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\fr\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\it\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\ja\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\ko\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\ru\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\obj\Debug\WebApi.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\obj\Debug\WebApi.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\AutoMapper.Net4.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Prod.Entities.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Prod.Resolver.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Prod.Services.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Prod.DAL.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Prod.Entities.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Prod.Services.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Prod.Resolver.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApi3\WebApi\bin\Prod.DAL.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\WebApi.dll.config
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\WebApi.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\WebApi.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\AttributeRouting.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\AttributeRouting.Web.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\AttributeRouting.Web.Http.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\AttributeRouting.Web.Http.WebHost.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\EntityFramework.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Microsoft.Data.Edm.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Microsoft.Data.OData.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Microsoft.Practices.Unity.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Prod.Entities.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Prod.Resolver.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Prod.Services.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Net.Http.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Net.Http.WebRequest.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Spatial.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Web.Helpers.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Web.Http.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Web.Http.OData.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Web.Mvc.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Web.Optimization.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Web.Providers.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Web.Razor.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Web.WebPages.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Unity.Mvc3.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Unity.WebApi.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\WebActivator.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\WebGrease.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Prod.DAL.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\AutoMapper.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Prod.Entities.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Prod.Services.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Prod.Resolver.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\AttributeRouting.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\AttributeRouting.Web.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\AttributeRouting.Web.Http.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\AttributeRouting.Web.Http.WebHost.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Microsoft.Data.Edm.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Microsoft.Data.OData.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Microsoft.Practices.Unity.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Spatial.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Web.Helpers.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Web.Http.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Web.Http.OData.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Web.Mvc.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Web.Razor.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Web.WebPages.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\EntityFramework.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Net.Http.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\System.Net.Http.WebRequest.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\WebActivator.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\Prod.DAL.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\AutoMapper.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\AutoMapper.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\de\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\es\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\fr\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\it\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\ja\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\ko\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\ru\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\obj\Debug\WebApi.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\obj\Debug\WebApi.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApi\WebApi\bin\AutoMapper.Net4.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\AutoMapper.Net4.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\WebApi.dll.config
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\WebApi.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\WebApi.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\AttributeRouting.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\AttributeRouting.Web.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\AttributeRouting.Web.Http.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\AttributeRouting.Web.Http.WebHost.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\EntityFramework.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Microsoft.Data.Edm.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Microsoft.Data.OData.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Microsoft.Practices.Unity.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Prod.Entities.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Prod.Resolver.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Prod.Services.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Net.Http.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Net.Http.WebRequest.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Spatial.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Web.Helpers.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Web.Http.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Web.Http.OData.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Web.Mvc.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Web.Optimization.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Web.Providers.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Web.Razor.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Web.WebPages.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Unity.Mvc3.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Unity.WebApi.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\WebActivator.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\WebGrease.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Prod.DAL.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\AutoMapper.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Prod.Entities.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Prod.Resolver.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Prod.Services.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\AttributeRouting.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\AttributeRouting.Web.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\AttributeRouting.Web.Http.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\AttributeRouting.Web.Http.WebHost.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Microsoft.Data.Edm.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Microsoft.Data.OData.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Microsoft.Practices.Unity.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Spatial.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Web.Helpers.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Web.Http.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Web.Http.OData.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Web.Mvc.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Web.Razor.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Web.WebPages.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\EntityFramework.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Net.Http.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\System.Net.Http.WebRequest.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\WebActivator.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\Prod.DAL.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\AutoMapper.pdb
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\AutoMapper.xml
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\de\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\es\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\fr\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\it\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\ja\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\ko\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\ru\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\obj\Debug\WebApi.dll
+C:\Users\christianp\Desktop\EjemploApi\WebApiFinal\WebApi\obj\Debug\WebApi.pdb
